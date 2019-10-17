@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471523691988",
+    "firebase_url": "https://whatsappfluter.firebaseio.com",
+    "project_id": "whatsappfluter",
+    "storage_bucket": "whatsappfluter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471523691988:android:82bc87a766b43050679a41",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.valterjunior.whatsaapfluter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471523691988-r5gppkh3m6qa7qbl0plfhd7g2aat84ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUxbEElnUE_YZPSJJnRx4Mbp8g_2epyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471523691988-r5gppkh3m6qa7qbl0plfhd7g2aat84ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
